@@ -1,4 +1,6 @@
-# 💳 Customers’ behavior on credit cards
+# 💳 Customers’ behavior on their credit cards
+
+<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/965c5dab-9bc6-42a3-918e-5c9a33b1209b" />
 
 ## 1. Introduction
 
