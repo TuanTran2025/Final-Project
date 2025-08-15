@@ -1,4 +1,4 @@
-# Customers’ behavior on credit cards
+# 💳 Customers’ behavior on credit cards
 
 ## 1. Introduction
 
