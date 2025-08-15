@@ -1,3 +1,4 @@
 # Customers’ behavior on credit cards
-## Project title
-“”.
+## 1. Introduction
+
+## 2. Dataset
