@@ -1,3 +1,3 @@
-# Final-Project
+# Customers’ behavior on credit cards
 ## Project title
-“Customers’ behavior on credit cards”.
+“”.
