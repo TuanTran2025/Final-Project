@@ -30,7 +30,8 @@ This comprehensive dataset combines transaction records, customer information, a
 - Covers transactions throughout the 2010s
 - Features transaction types, amounts, and merchant information
 - Perfect for analyzing spending patterns and building fraud detection models
-  <img width="834" height="314" alt="image" src="https://github.com/user-attachments/assets/825ec6c6-f044-4856-b3d2-27ffce453d23" />
+  <img width="834" height="314" alt="image" src="https://github.com/user-attachments/assets/5a19ff83-e394-4481-b681-e121ff55569b" />
+
 
 #### 2.2.2. Card Information (cards_data.csv)
 - Credit and debit card details
