@@ -32,11 +32,6 @@ This comprehensive dataset combines transaction records, customer information, a
   
   <img width="534" height="201" alt="image" src="https://github.com/user-attachments/assets/c519b021-c8fe-41bb-ad05-52b86f33fcb8" />
 
-id	date	client_id	card_id	amount	use_chip	merchant_id	merchant_city	merchant_state	zip	mcc	errors
-1394612	9153117	2011-02-14 08:48:00	668	5778	$43.16	Swipe Transaction	15863	Birmingham	AL	35211.0	5411	NaN
-5029206	13582496	2013-11-14 11:56:00	1696	2408	$72.87	Swipe Transaction	41647	Merritt Island	FL	32952.0	7538	NaN
-
-
 #### 2.2.2. Card Information (cards_data.csv)
 - Credit and debit card details
 - Includes card limits, types, and activation dates
@@ -46,8 +41,9 @@ id	date	client_id	card_id	amount	use_chip	merchant_id	merchant_city	merchant_sta
 
 #### 2.2.3. Merchant Category Codes (mcc_codes.json)
 - Standard classification codes for business types
-- Enables transaction categorization and spending analysis
-- Industry-standard MCC codes with descriptions
+<img width="491" height="303" alt="image" src="https://github.com/user-attachments/assets/84ee9114-b93a-474a-8406-086c96404309" />
+
+
 #### 2.2.4. User Data (users_data)
 - Demographic information about customers
 - Account-related details
