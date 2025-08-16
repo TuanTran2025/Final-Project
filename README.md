@@ -30,14 +30,12 @@ This comprehensive dataset combines transaction records, customer information, a
 - Detailed transaction records including amounts, timestamps, and merchant details
 - Covers transactions throughout the 2010s
 - Features transaction types, amounts, and merchant information
-  
   <img width="534" height="201" alt="image" src="https://github.com/user-attachments/assets/c519b021-c8fe-41bb-ad05-52b86f33fcb8" />
 
 #### 2.2.2. User Data 
 - users_data includes 13 columns and 6,146 rows
 - Demographic information about customers
 - Account-related details
-
 <img width="532" height="137" alt="image" src="https://github.com/user-attachments/assets/1a0cf208-5c89-4396-a7cf-2ef83677a656" />
 
 #### 2.2.3. Card Information
@@ -45,7 +43,6 @@ This comprehensive dataset combines transaction records, customer information, a
 - Credit and debit card details
 - Includes card limits, types, and activation dates
 - Links to customer accounts via card_id
-
 <img width="533" height="127" alt="image" src="https://github.com/user-attachments/assets/d45ef661-9077-43a6-8a93-1d425bbee601" />
 
 #### 2.2.4. Merchant Category Codes 
@@ -54,6 +51,8 @@ This comprehensive dataset combines transaction records, customer information, a
 <img width="491" height="303" alt="image" src="https://github.com/user-attachments/assets/84ee9114-b93a-474a-8406-086c96404309" />
 
 ### 2.3. Data Model
+The dataset consists of 4 tables containing information regarding card information and related transactions
+
 
 ## 3. Main Goals
 
