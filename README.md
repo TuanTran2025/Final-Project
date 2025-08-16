@@ -33,7 +33,14 @@ This comprehensive dataset combines transaction records, customer information, a
   
   <img width="534" height="201" alt="image" src="https://github.com/user-attachments/assets/c519b021-c8fe-41bb-ad05-52b86f33fcb8" />
 
-#### 2.2.2. Card Information
+#### 2.2.2. User Data 
+- users_data includes 13 columns and 6,146 rows
+- Demographic information about customers
+- Account-related details
+
+<img width="532" height="137" alt="image" src="https://github.com/user-attachments/assets/1a0cf208-5c89-4396-a7cf-2ef83677a656" />
+
+#### 2.2.3. Card Information
 - cards_data.csv includes 14 columns and 2,000 rows
 - Credit and debit card details
 - Includes card limits, types, and activation dates
@@ -41,18 +48,10 @@ This comprehensive dataset combines transaction records, customer information, a
 
 <img width="533" height="127" alt="image" src="https://github.com/user-attachments/assets/d45ef661-9077-43a6-8a93-1d425bbee601" />
 
-#### 2.2.3. Merchant Category Codes 
+#### 2.2.4. Merchant Category Codes 
 - mcc_codes.json includes 2 columns and 109 rows 
 - Standard classification codes for business types
 <img width="491" height="303" alt="image" src="https://github.com/user-attachments/assets/84ee9114-b93a-474a-8406-086c96404309" />
-
-
-#### 2.2.4. User Data 
-- users_data includes 13 columns and 6,146 rows
-- Demographic information about customers
-- Account-related details
-
-<img width="532" height="137" alt="image" src="https://github.com/user-attachments/assets/1a0cf208-5c89-4396-a7cf-2ef83677a656" />
 
 ### 2.3. Data Model
 
