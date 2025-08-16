@@ -54,7 +54,7 @@ This comprehensive dataset combines transaction records, customer information, a
 The dataset consists of:
 - 4 tables which contains information regarding the card information and related transactions
 - 1 calendar table
-- 1 table of Gross Margin (which is referenced from the reseach of 
+- 1 table of Gross Margin (which is based on a reseach online from the link: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html)
 
 <img width="958" height="727" alt="image" src="https://github.com/user-attachments/assets/17f4cfdc-9980-430f-9deb-092c001b788d" />
 
