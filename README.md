@@ -16,5 +16,8 @@ Through this analysis, we aim to:
 
 Ultimately, this project bridges the gap between raw transaction data and strategic decision-making, helping financial institutions create **data-driven, customer-centric strategies** for growth and sustainability.
 
-
 ## 2. Dataset
+
+This comprehensive dataset combines transaction records, customer information, and card data from a banking institution, spanning across the 2010s decade.
+
+### 
