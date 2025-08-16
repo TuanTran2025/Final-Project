@@ -60,6 +60,7 @@ The data model consists of:
 ## 3. Main Goals
 🔹 Purpose:
 -	Identify customer groups that bring the highest value from credit card usage in order to persude the retention strategies and optimizing profits.
+  
 🔹 Key Analytical Questions:
 -	What do the customer purchase behavior/value accumulation patterns have in common?
 -	Which customer groups should be prioritized for marketing and retention?
