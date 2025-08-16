@@ -59,7 +59,7 @@ The data model consists of:
 
 ## 3. Main Goals
 ### 3.1. Purpose:
-Identify customer groups that bring the highest value from credit card usage in order to persude the retention strategies and optimizing profits.
+- Identify customer groups that bring the highest value from credit card usage in order to persude the retention strategies and optimizing profits.
 
 ### 3.2. Key Analytical Questions:
 -	What do the customer purchase behavior/value accumulation patterns have in common?
@@ -71,6 +71,21 @@ Identify customer groups that bring the highest value from credit card usage in 
 -	Process the amount columns containing $ characters, negative data → convert and filter.
 -	Check and normalize data types (int, datetime, str, etc.)
 -	Remove records missing important information (NaN, duplicate, transaction error)
+
+### 4.2. Exploratory Data Analysis (EDA):
+-	Analyze spending distribution by age group, gender, income.
+-	Analyze behavior by mcc (industry), card_type, credit_limit.
+-	Statistics on transaction frequency, sales by week/month/year.
+
+### 4.3. Analysis & Modeling 
+-	Cluster customers by K-Means / Hierarchical Clustering.
+-	Analyze correlation between credit_score, income, debt, spending.
+
+### 4.4. Visualization & Storytelling 
+-	Interactive Dashboard using Power BI
+	Customer distribution map by region.
+	Bar chart analyzing behavior by MCC.
+	Timeline of spending by segment.
 
 ## 5. Results
 
