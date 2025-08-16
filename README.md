@@ -20,10 +20,10 @@ Ultimately, this project bridges the gap between raw transaction data and strate
 
 This comprehensive dataset combines transaction records, customer information, and card data from a banking institution, spanning across the 2010s decade.
 
-### Data Source
+### 2.1. Data Source
 
-### Data Model
+### 2.2. Data Model
 
-### Data Structure
+### 2.3. Data Structure
 
 
