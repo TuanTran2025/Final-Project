@@ -30,7 +30,7 @@ This comprehensive dataset combines transaction records, customer information, a
 - Detailed transaction records including amounts, timestamps, and merchant details
 - Covers transactions throughout the 2010s
 - Features transaction types, amounts, and merchant information
-  <img width="534" height="201" alt="image" src="https://github.com/user-attachments/assets/c519b021-c8fe-41bb-ad05-52b86f33fcb8" />
+<img width="534" height="201" alt="image" src="https://github.com/user-attachments/assets/c519b021-c8fe-41bb-ad05-52b86f33fcb8" />
 
 #### 2.2.2. User Data 
 - users_data includes 13 columns and 6,146 rows
