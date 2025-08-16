@@ -66,6 +66,12 @@ The data model consists of:
 -	Which customer groups should be prioritized for marketing and retention?
 -	Is there a relationship between demographic characteristics and spending behavior?
 
-## 4. Results
+## 4. Methodology
+### 4.1. Data Cleaning
+-	Process the amount columns containing $ characters, negative data → convert and filter.
+-	Check and normalize data types (int, datetime, str, etc.)
+-	Remove records missing important information (NaN, duplicate, transaction error)
+
+## 5. Results
 
 
