@@ -32,6 +32,11 @@ This comprehensive dataset combines transaction records, customer information, a
   
   <img width="534" height="201" alt="image" src="https://github.com/user-attachments/assets/c519b021-c8fe-41bb-ad05-52b86f33fcb8" />
 
+id	date	client_id	card_id	amount	use_chip	merchant_id	merchant_city	merchant_state	zip	mcc	errors
+1394612	9153117	2011-02-14 08:48:00	668	5778	$43.16	Swipe Transaction	15863	Birmingham	AL	35211.0	5411	NaN
+5029206	13582496	2013-11-14 11:56:00	1696	2408	$72.87	Swipe Transaction	41647	Merritt Island	FL	32952.0	7538	NaN
+
+
 #### 2.2.2. Card Information (cards_data.csv)
 - Credit and debit card details
 - Includes card limits, types, and activation dates
