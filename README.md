@@ -25,7 +25,8 @@ This comprehensive dataset combines transaction records, customer information, a
 - Alternative link can be retrieved from https://drive.google.com/drive/folders/1eglwYm7bw-4Ebh73shGaIJssfGxqkxlq?usp=sharing
 
 ### 2.2. Data Structure
-#### 2.2.1. Transaction Data (transactions_data.csv – 12 columns and 1,048,575 rows) 
+#### 2.2.1. Transaction Data
+- transactions_data.csv (12 columns and 1,048,575 rows) 
 - Detailed transaction records including amounts, timestamps, and merchant details
 - Covers transactions throughout the 2010s
 - Features transaction types, amounts, and merchant information
