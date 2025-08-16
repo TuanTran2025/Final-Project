@@ -36,7 +36,9 @@ This comprehensive dataset combines transaction records, customer information, a
 - Credit and debit card details
 - Includes card limits, types, and activation dates
 - Links to customer accounts via card_id
-- Essential for understanding customer financial profiles
+
+<img width="533" height="127" alt="image" src="https://github.com/user-attachments/assets/d45ef661-9077-43a6-8a93-1d425bbee601" />
+
 #### 2.2.3. Merchant Category Codes (mcc_codes.json)
 - Standard classification codes for business types
 - Enables transaction categorization and spending analysis
