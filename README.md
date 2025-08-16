@@ -83,9 +83,9 @@ The data model consists of:
 
 ### 4.4. Visualization & Storytelling 
 -	Interactive Dashboard using Power BI
-	Customer distribution map by region.
-	Bar chart analyzing behavior by MCC.
-	Timeline of spending by segment.
+  - 	Customer distribution map by region.
+  - 	Bar chart analyzing behavior by MCC.
+  - 	Timeline of spending by segment.
 
 ## 5. Results
 
