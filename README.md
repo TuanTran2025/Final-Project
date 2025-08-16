@@ -52,7 +52,7 @@ This comprehensive dataset combines transaction records, customer information, a
 
 ### 2.3. Data Model
 The data model consists of:
-- 4 tables which contains information regarding the card information and related transactions
+- 4 tables which contains the card information and related transactions
 - 1 calendar table
 - 1 table of Gross Margin (which is based on a reseach online from the link: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html)
 <img width="958" height="727" alt="image" src="https://github.com/user-attachments/assets/17f4cfdc-9980-430f-9deb-092c001b788d" />
