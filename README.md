@@ -26,28 +26,23 @@ This comprehensive dataset combines transaction records, customer information, a
 
 ### 2.2. Data Structure
 #### 2.2.1. Transaction Data (transactions_data.csv)
-  Detailed transaction records including amounts, timestamps, and merchant details
-  Covers transactions throughout the 2010s
-  Features transaction types, amounts, and merchant information
-  Perfect for analyzing spending patterns and building fraud detection models
-2. Card Information (cards_dat.csv)
-Credit and debit card details
-Includes card limits, types, and activation dates
-Links to customer accounts via card_id
-Essential for understanding customer financial profiles
-3. Merchant Category Codes (mcc_codes.json)
-Standard classification codes for business types
-Enables transaction categorization and spending analysis
-Industry-standard MCC codes with descriptions
-4. Fraud Labels (train_fraud_labels.json)
-Binary classification labels for transactions
-Indicates fraudulent vs. legitimate transactions
-Ideal for training supervised fraud detection models
-5. User Data (users_data)
-Demographic information about customers
-Account-related details
-Enables customer segmentation and personalized analysis
-
+- Detailed transaction records including amounts, timestamps, and merchant details
+- Covers transactions throughout the 2010s
+- Features transaction types, amounts, and merchant information
+- Perfect for analyzing spending patterns and building fraud detection models
+#### 2.2.2. Card Information (cards_dat.csv)
+- Credit and debit card details
+- Includes card limits, types, and activation dates
+- Links to customer accounts via card_id
+- Essential for understanding customer financial profiles
+#### 2.2.3. Merchant Category Codes (mcc_codes.json)
+- Standard classification codes for business types
+- Enables transaction categorization and spending analysis
+- Industry-standard MCC codes with descriptions
+#### 2.2.4. User Data (users_data)
+- Demographic information about customers
+- Account-related details
+- Enables customer segmentation and personalized analysis
 
 ### 2.3. Data Model
 
