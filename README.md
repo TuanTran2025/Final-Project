@@ -51,8 +51,8 @@ This comprehensive dataset combines transaction records, customer information, a
 <img width="491" height="303" alt="image" src="https://github.com/user-attachments/assets/84ee9114-b93a-474a-8406-086c96404309" />
 
 ### 2.3. Data Model
-The dataset consists of 4 tables containing information regarding card information and related transactions
-
+The dataset consists of 4 tables which contains information regarding the card information and related transactions
+<img width="958" height="727" alt="image" src="https://github.com/user-attachments/assets/17f4cfdc-9980-430f-9deb-092c001b788d" />
 
 ## 3. Main Goals
 
