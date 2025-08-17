@@ -218,4 +218,7 @@ The data model consists of:
 - Keep running broad spending incentive programs since spending is not strongly tied to debt.
 
 ### 5.10. Customers Cluster Analysis
-#### 
+#### 📈 Clusters by Ebowl Method
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/398c08b4-13f2-4c2f-ab18-6eb5962b0c68" />
+
+#### 📊 K-mean Segmentations
