@@ -204,3 +204,15 @@ The data model consists of:
 | yearly\_income vs total\_debt   | 0.49        | Moderate   | Higher income is moderately linked to more debt |
 | yearly\_income vs amount        | 0.14        | Weak       | Higher income → slightly more spending          |
 | total\_debt vs amount           | 0.06        | Negligible | Debt level has almost no link to spending       |
+
+#### 💡 Recommendations
+- Credit score is not related to income or spending → Don’t rely on income or spending level to predict credit score. Instead, focus on repayment history and on-time payments when building credit scoring models.
+- Higher debt slightly lowers credit score → Encourage customers to manage debt responsibly. Consider introducing debt restructuring products (e.g., consolidation loans) or offering incentives for on-time repayment to improve credit scores.
+- Higher income is moderately linked to higher debt (0.49 correlation) → High-income customers tend to borrow more. This segment is attractive for premium credit products (e.g., Platinum cards, low-interest loan packages). However, risk management is essential as debt levels also rise.
+- Higher income → slightly higher spending (weak correlation 0.14) → High-income customers may spend more, but not significantly. Focus on personalized offers and luxury services instead of assuming all high-income customers are heavy spenders.
+- Debt level has almost no link to spending → Spending behavior is mostly independent of debt. Promotional programs such as cashback, loyalty points, and vouchers can be applied broadly across customer segments.
+
+#### 👉 In summary:
+- Manage risk and help debt-heavy customers improve their credit score.
+- Target high-income customers with premium financial products.
+- Keep running broad spending incentive programs since spending is not strongly tied to debt.
