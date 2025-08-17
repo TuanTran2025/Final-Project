@@ -96,7 +96,8 @@ The data model consists of:
 <img width="1532" height="948" alt="image" src="https://github.com/user-attachments/assets/800e81ef-3162-420b-98d6-13ad735ad342" />
 
 #### 5.1.3. 🔍 Key Insights
-* Transactions Growth: Increased steadily from ~82K/month (2010) → ~103–105K/month (2019). Predictable annual dips indicate seasonal slowdowns.
+* Transactions Growth:
+    - Increased steadily from ~82K/month (2010) → ~103–105K/month (2019). Predictable annual dips indicate seasonal slowdowns.
 * Brand Spending:
     - Mastercard leads (Debit: $1.6M–1.8M; Credit: $500K–600K).
     - Visa follows (Debit: $900K–1M; Credit: $750K–800K).
@@ -112,3 +113,10 @@ The data model consists of:
 * Market Positioning:
     - Mastercard & Visa = broad market dominance.
     - Amex & Discover = premium/niche focus.
+
+#### 5.1.4. 💡 Recommendations
+* Amex & Discover: Expand merchant partnerships + offer seasonal incentives to reduce volatility.
+* Mastercard & Visa: Upsell debit users into credit products; cross-sell financial services.
+* Prepaid Cards: Promote adoption among unbanked/younger demographics.
+* Seasonal Campaigns: Leverage holiday peaks with credit-focused promotions.
+
