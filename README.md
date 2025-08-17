@@ -222,3 +222,19 @@ The data model consists of:
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/398c08b4-13f2-4c2f-ab18-6eb5962b0c68" />
 
 #### 📊 K-mean Segmentations
+<img width="989" height="690" alt="image" src="https://github.com/user-attachments/assets/d6018306-f23e-493a-b086-626ffc0e63a8" />
+
+#### 🎯 Cluster results
+|       Cluster | Avg Credit Score | Avg Yearly Income | Description                        |
+| ------------: | ---------------: | ----------------: | ---------------------------------- |
+| **Cluster 0** |              746 |          \$38,883 | 🟣 **Creditworthy but Low Income** |
+| **Cluster 1** |              724 |          \$80,894 | 🟢 **High-Income, Good Credit**    |
+| **Cluster 2** |              641 |          \$42,993 | 🟡 **Low Credit, Moderate Income** |
+
+####
+| **Cluster**                              | **Profile**                              | **Key Characteristics**                                                                                                                                         | **Recommendations**                                                                                                                                                                                                                                   |
+| ---------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🟣 **Cluster 0 — "Stable Low-Income"**   | Low-income but disciplined credit users  | 🔹 High average credit score (746)<br>🔹 Conservative spenders, long-term customers<br>🔹 Likely prefer low-limit cards or installment payments                 | ✅ Offer small credit limit increases to encourage loyalty<br>✅ Provide installment-based products and essential rewards (groceries, utilities)<br>✅ Launch “financial stability” perks (e.g., fee waivers, cashback on essentials)                    |
+| 🟢 **Cluster 1 — "Prime Customers"**     | High-income, strong credit history       | 🔹 Avg. income \~\$81K<br>🔹 Professionals/high-earners using premium cards<br>🔹 Likely frequent travelers or business users<br>🔹 High-value purchases common | ✅ Strengthen premium card offers (travel rewards, concierge services)<br>✅ Build partnerships with airlines, hotels, and luxury brands<br>✅ Cross-sell wealth products (loans, investments, insurance)<br>✅ Target retention with elite loyalty tiers |
+| 🟡 **Cluster 2 — "At-Risk or Emerging"** | Moderate income, weaker credit stability | 🔹 Lowest avg. credit score (641)<br>🔹 Avg. income \~\$43K<br>🔹 Possibly younger, financially unstable<br>🔹 Higher risk of outstanding debts/missed payments | ✅ Provide secured credit or starter cards with limited lines<br>✅ Offer financial education and credit-building tools<br>✅ Incentivize on-time repayment with small rewards<br>✅ Closely monitor for default risk but keep engaged                    |
+
