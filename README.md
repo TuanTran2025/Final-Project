@@ -231,7 +231,7 @@ The data model consists of:
 | **Cluster 1** |              724 |          \$80,894 | 🟢 **High-Income, Good Credit**    |
 | **Cluster 2** |              641 |          \$42,993 | 🟡 **Low Credit, Moderate Income** |
 
-####
+#### 💡 Recommendations
 | **Cluster**                              | **Profile**                              | **Key Characteristics**                                                                                                                                         | **Recommendations**                                                                                                                                                                                                                                   |
 | ---------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🟣 **Cluster 0 — "Stable Low-Income"**   | Low-income but disciplined credit users  | 🔹 High average credit score (746)<br>🔹 Conservative spenders, long-term customers<br>🔹 Likely prefer low-limit cards or installment payments                 | ✅ Offer small credit limit increases to encourage loyalty<br>✅ Provide installment-based products and essential rewards (groceries, utilities)<br>✅ Launch “financial stability” perks (e.g., fee waivers, cashback on essentials)                    |
