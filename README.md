@@ -78,7 +78,7 @@ The data model consists of:
 -	Statistics on transaction frequency, sales by week/month/year.
 
 ### 4.3. Analysis & Modeling 
--	Cluster customers by K-Means / Hierarchical Clustering.
+-	Cluster customers by K-Means Clustering.
 -	Analyze correlation between credit_score, income, debt, spending.
 
 ### 4.4. Visualization & Storytelling 
