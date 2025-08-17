@@ -105,7 +105,14 @@ The data model consists of:
 | 🌍 **Market Positioning**: Mastercard & Visa = broad dominance; Amex & Discover = premium/niche.                               | 🏆 Tailor campaigns: broad market upsell for Mastercard/Visa, premium-targeted rewards for Amex/Discover.                          |
 
 ### 5.2. Spending by MCC
-
 <img width="996" height="590" alt="image" src="https://github.com/user-attachments/assets/4b3be0ee-f675-48b6-aa64-64cd99d3ff68" />
 
- 
+ | **📊 Key Insights**                                                                                      | **💡 Recommendations**                                                                                |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 🛒 **High Spending Sectors**: Grocery (3.54M), Wholesale Clubs (3.20M), Pharmacies (3.02M).              | 🤝 Build **partnerships & loyalty programs** with grocery, wholesale, and pharmacy chains.            |
+| 🍽️ **Lifestyle & Daily Needs**: Service Stations (2.53M), Utilities (2.40M), Restaurants (2.26M).       | 🎯 Run **targeted offers** in dining & bundle deals with fuel/utilities for recurring demand.         |
+| 🏬 **Moderate Categories**: Dept. Stores (2.32M), Tolls (2.21M), Auto Shops (2.18M), Telecom (2.14M).    | 📌 Provide **cross-sector promotions** (e.g., retail + telecom bundles, commuting rewards).           |
+| 🎲 **Niche but Noticeable**: Betting (0.44M), Drinking (0.55M), Beauty (0.42M), Travel Agencies (0.38M). | 🚀 Expand **engagement campaigns** in lifestyle & travel, target smaller but loyal segments.          |
+| 💳 **Digital Payment Gap**: Low card usage in betting, beauty, and local transport.                      | 📲 Promote **digital payment adoption** with rewards & easy-pay features in under-penetrated sectors. |
+
+### 5.3. 
