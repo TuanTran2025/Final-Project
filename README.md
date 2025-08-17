@@ -120,3 +120,8 @@ The data model consists of:
 * Prepaid Cards: Promote adoption among unbanked/younger demographics.
 * Seasonal Campaigns: Leverage holiday peaks with credit-focused promotions.
 
+### 5.2. Spending by MCC
+#### 5.2.1. TOP 25 Spending by Industries (MCC) in 2019
+<img width="996" height="590" alt="image" src="https://github.com/user-attachments/assets/4b3be0ee-f675-48b6-aa64-64cd99d3ff68" />
+
+#### 5.2.2. 
