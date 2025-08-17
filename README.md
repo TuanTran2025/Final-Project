@@ -196,10 +196,11 @@ The data model consists of:
 <img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/3462eed4-016b-438c-a2cf-8bcc494cf53a" />
 
 #### 🔍 Key Insides
-Variables in Pair	Correlation	Strength	Quick Takeaway
-credit_score vs yearly_income	-0.03	Negligible	Credit score is not related to yearly income
-credit_score vs total_debt	-0.11	Weak	More debt slightly lowers credit score
-credit_score vs amount	-0.02	Negligible	Spending not linked to credit score
-yearly_income vs total_debt	0.49	Moderate	Higher income is moderately linked to more debt
-yearly_income vs amount	0.14	Weak	Higher income → slightly more spending
-total_debt vs amount	0.06	Negligible	Debt level has almost no link to spending
+| Variables in Pair               | Correlation | Strength   | Quick Takeaway                                  |
+| ------------------------------- | ----------- | ---------- | ----------------------------------------------- |
+| credit\_score vs yearly\_income | -0.03       | Negligible | Credit score is not related to yearly income    |
+| credit\_score vs total\_debt    | -0.11       | Weak       | More debt slightly lowers credit score          |
+| credit\_score vs amount         | -0.02       | Negligible | Spending not linked to credit score             |
+| yearly\_income vs total\_debt   | 0.49        | Moderate   | Higher income is moderately linked to more debt |
+| yearly\_income vs amount        | 0.14        | Weak       | Higher income → slightly more spending          |
+| total\_debt vs amount           | 0.06        | Negligible | Debt level has almost no link to spending       |
