@@ -216,3 +216,6 @@ The data model consists of:
 - Manage risk and help debt-heavy customers improve their credit score.
 - Target high-income customers with premium financial products.
 - Keep running broad spending incentive programs since spending is not strongly tied to debt.
+
+### 5.10. Customers Cluster Analysis
+#### 
