@@ -117,3 +117,69 @@ The data model consists of:
 | 💳 **Digital Payment Gap**: Low card usage in betting, beauty, and local transport.                      | 📲 Promote **digital payment adoption** with rewards & easy-pay features in under-penetrated sectors. |
 
 ### 5.3. Spending by Age
+<img width="1790" height="590" alt="image" src="https://github.com/user-attachments/assets/39331102-54c9-4548-a67f-61ab86e65583" />
+
+####
+| **📊 Key Insights**                                                                    | **💡 Recommendations**                                                                                                          |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 🧑‍💼 **36–50 group** – Highest spenders (187M), but annual spend dropped (19M → 16M). | 🔑 Retention focus: personalized offers, premium upselling, cross-sell groceries/utilities, promote convenience & delivery.     |
+| 👨‍🦳 **51–65 group** – Strong spenders (170M) but declining (18M → 15M).              | 💡 Push **health & wellness**, loyalty/cashback, multi-channel (branch + digital), emphasize trust & reliability.               |
+| 👵 **65+ group** – Still significant (119M) but shrinking (12M → 10M).                 | 🎯 Senior-focused discounts, assistive tech, financial security tools, community programs, free delivery bundles.               |
+| 👩‍💻 **25–35 group** – Small but stable (6–7M yearly, 61M total).                     | 🚀 Growth play: installment financing, digital-first services, career-focused/lifestyle products, travel & experience bundles.  |
+| 🎓 **<25 group** – Minimal (2M total, negligible yearly).                              | 🌱 Entry-level engagement: student/youth discounts, trendy affordable products, gamified rewards, heavy social media campaigns. |
+| 📉 **Trend** – All groups declined in 2019 (possible economic caution).                | 📌 Prepare **seasonal campaigns** & diversify offers to re-stimulate middle-aged and senior spending.                           |
+
+### 5.4. Spending by Gender
+<img width="1355" height="590" alt="image" src="https://github.com/user-attachments/assets/c356c01e-a5d4-47e4-a219-ae0051d61732" />
+
+####
+| **📊 Key Insights**                                                                                                                | **💡 Recommendations**                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 👩 **Female Customers** – Slightly higher spending share (278.87M, 51.6%) vs. men (261.33M, 48.4%). Balanced contribution overall. | 🛍 Target groceries, department stores, personal care. Exclusive loyalty perks, seasonal sales, bundled discounts.  |
+| 👨 **Male Customers** – Strong in high-value sectors like automotive, electronics, travel.                                         | 🚗 Focus on cashback for fuel, tech discounts, travel/holiday packages.                                             |
+| 📉 **Both Genders** – Spending fell \~17% (2017 → 2019). Decline likely from external market factors.                              | 🔑 “Spend & earn” campaigns, tiered rewards, premium unlocks. Drive urgency with limited-time promotions.           |
+| 👫 **Balanced Spending** – Small gap (\$17.5M) means both genders are equally important.                                           | 💡 Joint offers: couple’s dining, family travel, bundled household services.                                        |
+| 📊 **Personalization Need** – Parallel decline suggests external, not behavioral cause.                                            | 🎯 Data-driven campaigns: segment by frequency, ticket size, categories. Deliver personalized offers via email/SMS. |
+| 🗣 **Feedback Gap** – No direct gender-specific motivator insights available.                                                      | ✅ Run surveys to uncover drivers & barriers. Use insights to refine product mix and partnerships.                   |
+
+### 5.5. Spending by Income
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/3da25287-b606-4511-9195-b609c44fe818" />
+
+####
+| **📊 Key Insights**                                                                                     | **💡 Recommendations**                                                                                                          |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 💵 **30–60K Group** – Core spender with **\$339.46M** (dominant share). Slight decline in recent years. | 🎯 Focus marketing & loyalty here. Value-driven bundles, seasonal discounts, and personalized digital campaigns to retain them. |
+| 💳 **60–90K Group** – Second largest at **\$92.09M**, but declining.                                    | ✨ Push “affordable luxury” offers. Tiered memberships (early access, exclusive deals) to boost yearly spend.                    |
+| 💲 **<30K Group** – Still contributes **\$65.52M** despite low income.                                  | 📱 Engage with entry-level products, micro-promos, installment plans. Use TikTok/Instagram influencers for reach.               |
+| 💎 **High Income (90K–150K & 150K+)** – Very low spending (**\$43.14M combined**) vs. potential.        | 🏆 Create premium lines, VIP events, concierge outreach. Position with luxury branding to unlock untapped demand.               |
+| 📉 **Declining Trend (2017–2019)** – All groups show mild but consistent decline.                       | 🔑 Launch revival campaigns (dormant customers). Time-limited promotions to create urgency. Use analytics to monitor shifts.    |
+
+### 5.6. Spending by Credit Score
+<img width="1384" height="590" alt="image" src="https://github.com/user-attachments/assets/6cfc3f99-0140-49b3-8aec-29c527f1d802" />
+
+####
+| **📊 Key Insights**                                                                                                                                         | **💡 Recommendations**                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⭐ **Good Score (22.85M)** – Largest total spenders. Core driver of activity.                                                                                | 🎯 Priority group: Premium rewards cards, co-branded offers, travel cards. Cross-sell savings, insurance, investments. Keep loyal with perks (lounge, cashback multipliers). |
+| 🔹 **Very Good Score (11.55M)** – Solid but lower than “Good”.                                                                                              | ✨ Premium services (wealth mgmt, mortgages, low-interest loans). Personalized perks to shift more spending. Build trust with advisory & transparency.                        |
+| 💎 **Excellent Score (3.83M)** – Conservative spenders despite high capacity.                                                                               | 🏆 Elite cards (luxury benefits, concierge). Push long-term financial products (retirement, investments). Encourage card use for recurring payments.                         |
+| ⚖ **Fair Score (6.81M)** – Mid-range, credit-building opportunity.                                                                                          | 📈 Offer low-interest installment loans, tiered rewards, and credit score tracking. Incentivize upgrades from Fair → Good segment.                                           |
+| 🔴 **Poor Score (1.76M total, but \$49.92 avg/user)** – Small group, highest spend per user, risky.                                                         | 🔐 Engage with **secured cards**, financial literacy, and repayment rewards. Tight risk controls but keep active since they spend heavily.                                   |
+| 📉 **Overall Trend** – Good = short-term growth, Fair = medium-term potential, Poor = risk-managed growth, Very Good/Excellent = retention & profitability. | 🔑 Balanced play: (1) Double down on Good, (2) Upgrade Fair, (3) Engage Poor with risk-limits, (4) Retain Very Good/Excellent via status-driven offers.                      |
+
+### 5.7. Spending by Number of Credit Cards
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/58aad275-8320-4428-afe6-5acdf3ee1444" />
+
+####
+| **📊 Key Insights**                                                                                            | **💡 Recommendations**                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ⭐ **3–4 Cards Segment (Sweet Spot)** – Peak spending (≈137M for 4 cards, 122M for 3). Core revenue driver.     | 🎯 Loyalty tiers (Platinum for 3+ cards), exclusive partnerships (airlines, retail, digital), spend dashboards to track rewards. |
+| 🔹 **1–2 Cards Segment (Entry-Level)** – Strong per-user spend (\~\$49), good growth potential.                | 📈 Push 2nd card adoption via cross-sell & bundles. Student/young professional education on card benefits.                       |
+| ⚠ **5–7 Cards Segment (Declining Value)** – Total & per-user spend drops (as low as \$39). Risk of inactivity. | 🔄 Reactivation promos (“use it or lose it”), consolidate into premium cards, send usage alerts and reward reminders.            |
+| 💎 **8–9 Cards Segment (Niche Premium)** – Few users, but highest per-user spend (\~\$56). Likely affluent.    | 🏆 VIP clubs with concierge, luxury brand tie-ins, expanded credit lines, investment-linked benefits.                            |
+| 📉 **Trend** – Spending increases with card count up to 4, then drops sharply until rebounding at 8–9.         | 🔑 Balanced play: (1) Push 1–2 → 3–4 growth, (2) Retain & upsell 3–4, (3) Revive 5–7, (4) Pamper 8–9 with VIP offers.            |
+
+### 5.8. Spending by Credit Limit
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/86c0dcd7-2b2c-46b9-98b1-012c7456917b" />
+
+####
