@@ -221,7 +221,7 @@ The data model consists of:
 #### 📈 Clusters by Ebowl Method
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/398c08b4-13f2-4c2f-ab18-6eb5962b0c68" />
 
-#### 📊 K-mean Segmentations
+#### 📊 K-mean Segmentations (n_clusters = 3)
 <img width="989" height="690" alt="image" src="https://github.com/user-attachments/assets/d6018306-f23e-493a-b086-626ffc0e63a8" />
 
 #### 🎯 Cluster results
