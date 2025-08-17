@@ -89,11 +89,20 @@ The data model consists of:
 
 ## 5. Results
 ### 5.1. Spending by Cards
-#### 5.1.1 📊 Transactions Frequency
+#### 📊 Transactions Frequency
 <img width="1031" height="451" alt="image" src="https://github.com/user-attachments/assets/18d6e44a-3b49-4952-a6d2-629507237a87" />
 
-#### 5.1.2. 💳 Spending by Brand & Type
+#### 💳 Spending by Brand & Type
 <img width="1532" height="948" alt="image" src="https://github.com/user-attachments/assets/800e81ef-3162-420b-98d6-13ad735ad342" />
+
+| **Key Insights**                                                                                                               | **Recommendations**                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 📈 **Transactions Growth**: Steady increase from \~82K/month (2010) → \~103–105K/month (2019), with predictable seasonal dips. | Use seasonal slowdowns for targeted promotions and budget planning.                                                              |
+| 💳 **Brand Spending**: Mastercard leads (Debit \$1.6M–1.8M, Credit \$500K–600K). Visa follows. Amex & Discover = niche.        | Mastercard & Visa: maintain dominance, cross-sell services. Amex & Discover: strengthen positioning with rewards and incentives. |
+| 🔄 **Card Type Trends**: Debit dominates Mastercard & Visa; Credit dominates Amex & Discover; Prepaid minimal.                 | Upsell debit users into credit (Mastercard/Visa). Grow prepaid adoption for unbanked/young customers.                            |
+| 📊 **Stability & Seasonality**: Mastercard & Visa stable; Amex & Discover volatile with sharp spikes/drops.                    | Amex & Discover: run incentive campaigns in low months to reduce volatility.                                                     |
+| 🌍 **Market Positioning**: Mastercard & Visa = broad dominance; Amex & Discover = premium/niche.                               | Tailor campaigns: broad market upsell for Mastercard/Visa, premium-targeted rewards for Amex/Discover.                           |
+
 
 #### 5.1.3. 🔍 Key Insights
 * Transactions Growth:
