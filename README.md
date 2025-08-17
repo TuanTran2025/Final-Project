@@ -21,7 +21,7 @@ Ultimately, this project bridges the gap between raw transaction data and strate
 This comprehensive dataset combines transaction records, customer information, and card data from a banking institution, spanning across the 2010s decade.
 
 ### 2.1. Data Source
-- The original source is coming from Kaggle (the link https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data)
+- The original source is coming from the Kaggle link https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data
 - Alternative link can be retrieved from https://drive.google.com/drive/folders/1eglwYm7bw-4Ebh73shGaIJssfGxqkxlq?usp=sharing
 
 ### 2.2. Data Structure
