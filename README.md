@@ -88,9 +88,27 @@ The data model consists of:
     * Timeline of spending by segment.
 
 ## 5. Results
-### 5.1. Transactions Frequency
+### 5.1. Spending by Cards
+#### 5.1.1 📊 Transactions Frequency
 <img width="1031" height="451" alt="image" src="https://github.com/user-attachments/assets/18d6e44a-3b49-4952-a6d2-629507237a87" />
 
-### 5.2. 💳 Spending by Brand & Type
+#### 5.1.2. 💳 Spending by Brand & Type
 <img width="1532" height="948" alt="image" src="https://github.com/user-attachments/assets/800e81ef-3162-420b-98d6-13ad735ad342" />
 
+#### 5.1.3. 🔍 Key Insights
+* Transactions Growth: Increased steadily from ~82K/month (2010) → ~103–105K/month (2019). Predictable annual dips indicate seasonal slowdowns.
+* Brand Spending:
+ - Mastercard leads (Debit: $1.6M–1.8M; Credit: $500K–600K).
+ - Visa follows (Debit: $900K–1M; Credit: $750K–800K).
+ - Amex & Discover much smaller, niche usage.
+* Card Type Trends:
+ - Debit dominates for Mastercard & Visa.
+ - Credit dominates for Amex & Discover.
+ - Prepaid minimal across all brands.
+* Stability & Seasonality:
+ - Mastercard & Visa = stable patterns.
+ - Amex & Discover = volatile, sharp spikes/drops.
+ - Seasonal effects more visible in credit than debit.
+* Market Positioning:
+ - Mastercard & Visa = broad market dominance.
+ - Amex & Discover = premium/niche focus.
