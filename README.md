@@ -70,7 +70,7 @@ The data model consists of:
 ### 4.1. Data Cleaning
 -	Process the amount columns containing $ characters, negative data → convert and filter.
 -	Check and normalize data types (int, datetime, str, etc.)
--	Remove records missing important information (NaN, duplicate, transaction error)
+-	Remove records missing important information (if neccessary such as NaN, duplicate, refund transactions, etc.)
 
 ### 4.2. Exploratory Data Analysis (EDA):
 -	Analyze spending distribution by age group, gender, income.
@@ -88,5 +88,9 @@ The data model consists of:
     * Timeline of spending by segment.
 
 ## 5. Results
+### 5.1. Transactions Frequency
+<img width="1031" height="451" alt="image" src="https://github.com/user-attachments/assets/18d6e44a-3b49-4952-a6d2-629507237a87" />
 
+### 5.2. 💳 Spending by Brand & Type
+<img width="1532" height="948" alt="image" src="https://github.com/user-attachments/assets/800e81ef-3162-420b-98d6-13ad735ad342" />
 
