@@ -183,3 +183,23 @@ The data model consists of:
 <img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/86c0dcd7-2b2c-46b9-98b1-012c7456917b" />
 
 ####
+| **🔍 Key Insights**                                                                              | **💡 Recommendations**                                                                                                             |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 💳 **High limit group** spends the most (\$156.75M) but doesn’t fully utilize credit.            | 👑 Deepen engagement with **premium perks, black cards, concierge services, wealth tie-ins, and luxury partnerships**.             |
+| ⚖️ **Medium group** (\$138.6M spend, 10.9K avg. limit) is balanced and strong.                   | 🎯 Drive incremental growth with **tiered rewards (groceries/dining), cross-sell (loans/insurance), and lifestyle/travel offers**. |
+| ⚠️ **Upper-Medium group** (16.9K avg. limit) spends almost same as Medium → under-utilization.   | ✈️ Re-engage with **exclusive experiences (travel, dining, lifestyle)** and **reward accelerators** (“spend more, earn more”).     |
+| 🏦 **Low limit group** (3.3K avg. limit, \$107.7M spend) is highly engaged despite small limits. | 📈 Offer **controlled credit line increases**, **basic cashback**, and **credit-building education tools**.                        |
+| 📉 Spending does not scale linearly with credit limits → some groups underperform.               | 🔍 Use **data-driven personalization** to tailor credit, rewards, and product offers to usage patterns.                            |
+| 🚀 Significant **untapped headroom** in High & Upper-Medium groups.                              | 🎟️ Launch **VIP-only programs, investment cross-sell, and exclusive events** to unlock spending potential.                        |
+
+### 5.9. Main Variables Correlations
+<img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/3462eed4-016b-438c-a2cf-8bcc494cf53a" />
+
+#### 🔍 Key Insides
+Variables in Pair	Correlation	Strength	Quick Takeaway
+credit_score vs yearly_income	-0.03	Negligible	Credit score is not related to yearly income
+credit_score vs total_debt	-0.11	Weak	More debt slightly lowers credit score
+credit_score vs amount	-0.02	Negligible	Spending not linked to credit score
+yearly_income vs total_debt	0.49	Moderate	Higher income is moderately linked to more debt
+yearly_income vs amount	0.14	Weak	Higher income → slightly more spending
+total_debt vs amount	0.06	Negligible	Debt level has almost no link to spending
