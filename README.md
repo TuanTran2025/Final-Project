@@ -107,6 +107,7 @@ The data model consists of:
 ### 5.2. Spending by MCC
 <img width="996" height="590" alt="image" src="https://github.com/user-attachments/assets/4b3be0ee-f675-48b6-aa64-64cd99d3ff68" />
 ####
+
  | **📊 Key Insights**                                                                                      | **💡 Recommendations**                                                                                |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | 🛒 **High Spending Sectors**: Grocery (3.54M), Wholesale Clubs (3.20M), Pharmacies (3.02M).              | 🤝 Build **partnerships & loyalty programs** with grocery, wholesale, and pharmacy chains.            |
