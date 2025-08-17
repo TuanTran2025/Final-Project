@@ -96,16 +96,16 @@ The data model consists of:
 <img width="1532" height="948" alt="image" src="https://github.com/user-attachments/assets/800e81ef-3162-420b-98d6-13ad735ad342" />
 
 ####
-| **Key Insights**                                                                                                               | **Recommendations**                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| 📈 **Transactions Growth**: Steady increase from \~82K/month (2010) → \~103–105K/month (2019), with predictable seasonal dips. | Use seasonal slowdowns for targeted promotions and budget planning.                                                              |
-| 💳 **Brand Spending**: Mastercard leads (Debit \$1.6M–1.8M, Credit \$500K–600K). Visa follows. Amex & Discover = niche.        | Mastercard & Visa: maintain dominance, cross-sell services. Amex & Discover: strengthen positioning with rewards and incentives. |
-| 🔄 **Card Type Trends**: Debit dominates Mastercard & Visa; Credit dominates Amex & Discover; Prepaid minimal.                 | Upsell debit users into credit (Mastercard/Visa). Grow prepaid adoption for unbanked/young customers.                            |
-| 📊 **Stability & Seasonality**: Mastercard & Visa stable; Amex & Discover volatile with sharp spikes/drops.                    | Amex & Discover: run incentive campaigns in low months to reduce volatility.                                                     |
-| 🌍 **Market Positioning**: Mastercard & Visa = broad dominance; Amex & Discover = premium/niche.                               | Tailor campaigns: broad market upsell for Mastercard/Visa, premium-targeted rewards for Amex/Discover.                           |
+| **📊 Key Insights**                                                                                                            | **💡 Recommendations**                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 📈 **Transactions Growth**: Steady increase from \~82K/month (2010) → \~103–105K/month (2019), with predictable seasonal dips. | 🎯 Use seasonal slowdowns for targeted promotions & smarter budget planning.                                                       |
+| 💳 **Brand Spending**: Mastercard dominates (Debit \$1.6M–1.8M, Credit \$500K–600K). Visa follows. Amex & Discover = niche.    | ✅ Mastercard & Visa: maintain dominance, cross-sell services. ⚡ Amex & Discover: strengthen positioning with rewards & incentives. |
+| 🔄 **Card Type Trends**: Debit dominates Mastercard & Visa; Credit dominates Amex & Discover; Prepaid minimal.                 | 📌 Upsell debit users into credit (Mastercard/Visa). 🚀 Grow prepaid adoption for unbanked/young customers.                        |
+| 🔔 **Stability & Seasonality**: Mastercard & Visa stable; Amex & Discover volatile with sharp spikes/drops.                    | ⚠️ Amex & Discover: run incentive campaigns in low months to reduce volatility.                                                    |
+| 🌍 **Market Positioning**: Mastercard & Visa = broad dominance; Amex & Discover = premium/niche.                               | 🏆 Tailor campaigns: broad market upsell for Mastercard/Visa, premium-targeted rewards for Amex/Discover.                          |
 
 ### 5.2. Spending by MCC
-#### 5.2.1. TOP 25 Spending by Industries (MCC) in 2019
+
 <img width="996" height="590" alt="image" src="https://github.com/user-attachments/assets/4b3be0ee-f675-48b6-aa64-64cd99d3ff68" />
 
-#### 5.2.2. 
+ 
