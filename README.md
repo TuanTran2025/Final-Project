@@ -95,7 +95,7 @@ The data model consists of:
 #### 💳 Spending by Brand & Type
 <img width="1532" height="948" alt="image" src="https://github.com/user-attachments/assets/800e81ef-3162-420b-98d6-13ad735ad342" />
 
-
+####
 | **Key Insights**                                                                                                               | **Recommendations**                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | 📈 **Transactions Growth**: Steady increase from \~82K/month (2010) → \~103–105K/month (2019), with predictable seasonal dips. | Use seasonal slowdowns for targeted promotions and budget planning.                                                              |
