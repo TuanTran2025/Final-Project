@@ -305,33 +305,6 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 ### c. Gross Margin
 The Gross Margin information is based on a reseach online from the link https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html
 
-mcc	description	industry	Gross Margin
-3771	Railroad Passenger Transport	Transportation (Railroads)	0.516799033
-4112	Passenger Railways	Transportation (Railroads)	0.516799033
-4214	Motor Freight Carriers and Trucking	Trucking	0.207243696
-4814	Telecommunication Services	Telecom. Services	0.593248971
-4899	Cable, Satellite, and Other Pay Television Services	Cable TV	0.578898172
-4900	Utilities - Electric, Gas, Water, Sanitary	Utility (General)	0.445288971
-5192	Books, Periodicals, Newspapers	Publishing & Newspapers	0.479069257
-5300	Wholesale Clubs	Retail (General)	0.322150963
-5311	Department Stores	Retail (General)	0.322150963
-5411	Grocery Stores, Supermarkets	Retail (Grocery and Food)	0.260941665
-5499	Miscellaneous Food Stores	Retail (Grocery and Food)	0.260941665
-5651	Family Clothing Stores	Apparel	0.542775195
-5661	Shoe Stores	Shoe	0.471028617
-5732	Electronics Stores	Electronics (Consumer & Office)	0.374768238
-5812	Eating Places and Restaurants	Restaurant/Dining	0.328957975
-5813	Drinking Places (Alcoholic Beverages)	Restaurant/Dining	0.328957975
-5814	Fast Food Restaurants	Restaurant/Dining	0.328957975
-6300	Insurance Sales, Underwriting	Insurance (General)	0.368316157
-7011	Lodging - Hotels, Motels, Resorts	Hotel/Gaming	0.613673568
-7832	Motion Picture Theaters	Entertainment	0.396751889
-7922	Theatrical Producers	Entertainment	0.396751889
-7995	Betting (including Lottery Tickets, Casinos)	Hotel/Gaming	0.613673568
-7996	Amusement Parks, Carnivals, Circuses	Entertainment	0.396751889
-8011	Doctors, Physicians	Doctors, Physicians	0.407158276
-8062	Hospitals	Hospitals/Healthcare Facilities	0.382485997
-8099	Medical Services	Healthcare Support Services	0.131573580
+<img width="796" height="649" alt="image" src="https://github.com/user-attachments/assets/7d9db532-004c-4239-be2f-2fc2ea5b99b9" />
 
-<img width="767" height="649" alt="image" src="https://github.com/user-attachments/assets/36a1721a-bc23-46ae-8fc4-528c46876fe0" />
 
