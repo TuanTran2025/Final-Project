@@ -311,4 +311,5 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 
 ### d. Lifetime Value (LTV)
 <img width="344" height="507" alt="image" src="https://github.com/user-attachments/assets/7889dbcf-f6a1-4265-b099-7dd8146a10e4" />
+
 - We will have the Lifetime Value) = 3,867 (USD)
