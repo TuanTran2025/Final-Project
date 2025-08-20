@@ -279,6 +279,7 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c4ff6952-b61f-473b-b22b-6df89b257af4" />
 
+
 | 🔍 **Key Insights**                                                                     | 💡 **Recommendations**                                                                         |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 📉 **Flat ARPU** – 2019 avg ($3,882) slightly below 2018 avg ($3,899), showing stagnation.  | 🚀 **Boost ARPU** by introducing new bundles, upselling, or premium features.                  |
