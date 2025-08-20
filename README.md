@@ -307,9 +307,9 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 <img width="842" height="649" alt="image" src="https://github.com/user-attachments/assets/f0581072-0d8d-48fc-9d1e-0ee3563d56ff" />
 
 - 'Gross Margin' value for other MCC will be calculated by 25% of Average Gross Margin from the research table above.
-- We will have the final Average Gross Margin (%): 22.20
+=> We will have the final Average Gross Margin (%): 22.20
 
 ### d. Lifetime Value (LTV)
 <img width="344" height="507" alt="image" src="https://github.com/user-attachments/assets/7889dbcf-f6a1-4265-b099-7dd8146a10e4" />
 
-We will have the Lifetime Value) = 3,867 (USD)
+=> We will have the Lifetime Value) = 3,867 (USD)
