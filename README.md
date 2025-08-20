@@ -304,7 +304,7 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 
 ### c. Gross Margin
 - The Gross Margin information is based on a research online from the link: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html
-<img width="796" height="649" alt="image" src="https://github.com/user-attachments/assets/7d9db532-004c-4239-be2f-2fc2ea5b99b9" />
+<img width="842" height="649" alt="image" src="https://github.com/user-attachments/assets/f0581072-0d8d-48fc-9d1e-0ee3563d56ff" />
 
 - 'Gross Margin' value for other MCC will be calculated by 25% of Average Gross Margin from the research table above.
 - We will have the final Average Gross Margin (%): 22.20
