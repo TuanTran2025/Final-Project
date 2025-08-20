@@ -221,7 +221,7 @@ The data model consists of:
 #### 📈 Clusters by Ebowl Method
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/398c08b4-13f2-4c2f-ab18-6eb5962b0c68" />
 
-#### 📊 K-mean Segmentations (n_clusters = 3)
+#### 📊 K-mean Segmentation (n_clusters = 3)
 <img width="989" height="690" alt="image" src="https://github.com/user-attachments/assets/d6018306-f23e-493a-b086-626ffc0e63a8" />
 
 #### 🎯 Cluster results
@@ -307,6 +307,7 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 <img width="842" height="649" alt="image" src="https://github.com/user-attachments/assets/f0581072-0d8d-48fc-9d1e-0ee3563d56ff" />
 
 - 'Gross Margin' value for other MCC will be calculated by 25% of Average Gross Margin from the research table above.
+
 => We will have the final Average Gross Margin (%): 22.20
 
 ### d. Lifetime Value (LTV)
