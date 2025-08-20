@@ -249,9 +249,8 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 <img width="895" height="797" alt="image" src="https://github.com/user-attachments/assets/58f9c36e-72d2-4cc3-8a52-dc21997e8a8a" />
 
 ### b. ARPU 2018 vs 2019
-
-avg_arpu_2019 =  3881.80
-avg_arpu_2018 =  3899.40
+- avg_arpu_2019 =  3881.80
+- avg_arpu_2018 =  3899.40
 
 |index|year\_month|total\_revenue|active\_users|arpu|
 |---|---|---|---|---|
@@ -277,4 +276,7 @@ avg_arpu_2018 =  3899.40
 |115|2019-08-01 00:00:00|4748442\.2|1206|3937\.348424543947|
 |116|2019-09-01 00:00:00|4586445\.68|1206|3803\.022951907131|
 |117|2019-10-01 00:00:00|4753052\.64|1203|3950\.9997007481293|
+
+#### 📊 Comparison of Monthly ARPU: 2018 vs 2019
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c4ff6952-b61f-473b-b22b-6df89b257af4" />
 
