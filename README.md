@@ -277,6 +277,13 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 |116|2019-09-01 00:00:00|4586445\.68|1206|3803\.022951907131|
 |117|2019-10-01 00:00:00|4753052\.64|1203|3950\.9997007481293|
 
-#### 📊 Comparison of Monthly ARPU: 2018 vs 2019
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c4ff6952-b61f-473b-b22b-6df89b257af4" />
+
+| 🔍 **Key Insights**                                                                     | 💡 **Recommendations**                                                                         |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 📉 **Flat ARPU** – 2019 avg (3882) slightly below 2018 avg (3899), showing stagnation.  | 🚀 **Boost ARPU** by introducing new bundles, upselling, or premium features.                  |
+| 📊 **Volatility in 2019** – Sharper dips (e.g., Feb 2019 \~3550) compared to 2018.      | ⚡ **Stabilize performance** – investigate churn, seasonality, or external economic factors.    |
+| 🔄 **Recurring seasonal dips** – Both years show early-year drops followed by rebounds. | 📆 **Seasonal campaigns** – run promotions in low months (e.g., Q1) to smooth dips.            |
+| 🔐 **No growth momentum** – Most months hover around \~3900, no upward trend.           | 🎯 **Retention & loyalty** – focus on keeping high-value users and reward consistent spenders. |
+
 
