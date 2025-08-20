@@ -242,13 +242,13 @@ The data model consists of:
 <img width="1755" height="891" alt="image" src="https://github.com/user-attachments/assets/0e9eee88-be6c-4b2d-abd6-36a2499b7c08" />
 
 ### a. Average Revenue Per User
-
+#### Monthly ARPU
 Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 (where Total Revenue = Total Amount of Transactions)
 
 <img width="895" height="797" alt="image" src="https://github.com/user-attachments/assets/58f9c36e-72d2-4cc3-8a52-dc21997e8a8a" />
 
-### b. ARPU 2018 vs 2019
+#### ARPU 2018 vs 2019
 - avg_arpu_2019 =  3881.80
 - avg_arpu_2018 =  3899.40
 
@@ -287,7 +287,9 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 | 🔄 **Recurring seasonal dips** – Both years show early-year drops followed by rebounds. | 📆 **Seasonal campaigns** – run promotions in low months (e.g., Q1) to smooth dips.            |
 | 🔐 **No growth momentum** – Most months hover around \~$3,900, no upward trend.           | 🎯 **Retention & loyalty** – focus on keeping high-value users and reward consistent spenders. |
 
-### c. New Customers
+### b. New Customers
+
+=> The transaction data absolutely does not have enough information on new customers for each year
 
 |index|year|new\_clients|
 |---|---|---|
@@ -300,5 +302,36 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 |6|2016|6|
 |7|2017|2|
 
-=> The transaction data absolutely does not have enough information on new customers for each year
+### c. Gross Margin
+The Gross Margin information is based on a reseach online from the link https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html
+
+mcc	description	industry	Gross Margin
+3771	Railroad Passenger Transport	Transportation (Railroads)	0.516799033
+4112	Passenger Railways	Transportation (Railroads)	0.516799033
+4214	Motor Freight Carriers and Trucking	Trucking	0.207243696
+4814	Telecommunication Services	Telecom. Services	0.593248971
+4899	Cable, Satellite, and Other Pay Television Services	Cable TV	0.578898172
+4900	Utilities - Electric, Gas, Water, Sanitary	Utility (General)	0.445288971
+5192	Books, Periodicals, Newspapers	Publishing & Newspapers	0.479069257
+5300	Wholesale Clubs	Retail (General)	0.322150963
+5311	Department Stores	Retail (General)	0.322150963
+5411	Grocery Stores, Supermarkets	Retail (Grocery and Food)	0.260941665
+5499	Miscellaneous Food Stores	Retail (Grocery and Food)	0.260941665
+5651	Family Clothing Stores	Apparel	0.542775195
+5661	Shoe Stores	Shoe	0.471028617
+5732	Electronics Stores	Electronics (Consumer & Office)	0.374768238
+5812	Eating Places and Restaurants	Restaurant/Dining	0.328957975
+5813	Drinking Places (Alcoholic Beverages)	Restaurant/Dining	0.328957975
+5814	Fast Food Restaurants	Restaurant/Dining	0.328957975
+6300	Insurance Sales, Underwriting	Insurance (General)	0.368316157
+7011	Lodging - Hotels, Motels, Resorts	Hotel/Gaming	0.613673568
+7832	Motion Picture Theaters	Entertainment	0.396751889
+7922	Theatrical Producers	Entertainment	0.396751889
+7995	Betting (including Lottery Tickets, Casinos)	Hotel/Gaming	0.613673568
+7996	Amusement Parks, Carnivals, Circuses	Entertainment	0.396751889
+8011	Doctors, Physicians	Doctors, Physicians	0.407158276
+8062	Hospitals	Hospitals/Healthcare Facilities	0.382485997
+8099	Medical Services	Healthcare Support Services	0.131573580
+
+<img width="767" height="649" alt="image" src="https://github.com/user-attachments/assets/36a1721a-bc23-46ae-8fc4-528c46876fe0" />
 
