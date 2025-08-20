@@ -287,4 +287,18 @@ Average Revenue Per User (ARPU) = Total Revenue / Number of Users
 | 🔄 **Recurring seasonal dips** – Both years show early-year drops followed by rebounds. | 📆 **Seasonal campaigns** – run promotions in low months (e.g., Q1) to smooth dips.            |
 | 🔐 **No growth momentum** – Most months hover around \~$3,900, no upward trend.           | 🎯 **Retention & loyalty** – focus on keeping high-value users and reward consistent spenders. |
 
+### c. New Customers
+
+|index|year|new\_clients|
+|---|---|---|
+|0|2010|1137|
+|1|2011|30|
+|2|2012|15|
+|3|2013|12|
+|4|2014|8|
+|5|2015|9|
+|6|2016|6|
+|7|2017|2|
+
+=> The transaction data absolutely does not have enough information on new customers for each year
 
