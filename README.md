@@ -307,4 +307,4 @@ The Gross Margin information is based on a reseach online from the link https://
 
 <img width="796" height="649" alt="image" src="https://github.com/user-attachments/assets/7d9db532-004c-4239-be2f-2fc2ea5b99b9" />
 
-
+'Gross Margin' for other MCC will be calculated by 25% of Average Gross Margin from the research table below.
